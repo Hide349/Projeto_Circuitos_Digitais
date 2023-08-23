@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./src/assets/logo.png" width="200"/>
+    <img src="./src/assets/logo.png" width="300" height="200"/>
     <p align="center">Projeto circuitos</p>
 </h1>
 <h2 align="center"/>
