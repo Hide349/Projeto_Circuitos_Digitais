@@ -11,7 +11,7 @@
 - [Multiplexador](#0️⃣1️⃣-multiplexador)
 - [Comparador](#🟰➕➖-comparador)
 - [Decodificador](#⚙️-decodificador)
-- [Conclusção](#✅-conslusão)
+- [Conclusão](#✅-conslusão)
 
 
 
