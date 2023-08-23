@@ -2,8 +2,10 @@
     <img marginleft="20" src="./src/assets/logo.png"/>
     <p align="center">Projeto circuitos</p>
 </h1>
-<img src="./src/assets/gamevid.gif" width="400" heigth="200" align="center"/>
+<h2 align="center"/>
+    <img src="./src/assets/gamevid.gif" width="400" heigth="200" />
 
+</h2>
 ## Indice
 - [Sobre](#📚-sobre)
 - [Ferramentas](#🔨-ferramentas)
