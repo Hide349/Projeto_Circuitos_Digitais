@@ -24,7 +24,7 @@ Esse projeto é um jogo criado no **LOGISIM**. O jogo consiste em um circuito qu
 
 ## Universidade
 
-Projeto feito para disciplina de circuitos digitais do professor Ramon Santos na universidade - [UFCA](https://www.ufca.edu.br/) 
+Projeto feito para disciplina de circuitos digitais do professor Ramon Santos na universidade **Universidade Federal do Cariri**. (https://www.ufca.edu.br/). 
 
 ##  :hammer:Ferramentas
 
