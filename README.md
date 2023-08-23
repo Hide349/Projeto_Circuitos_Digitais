@@ -78,7 +78,7 @@ Além disso tudo, é preciso adcionar uma possibilidade de jogar ou não. Para i
 
 <img src="./src/assets/Comparador.png" />
 
-## ⚙️ Decodificador
+### ⚙️ Decodificador
 O decodificador utilizará um display de sete segmentos para apresentar os números.
 
 <img src="./src/assets/display.png"/>
