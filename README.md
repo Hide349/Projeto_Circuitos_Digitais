@@ -1,5 +1,4 @@
 <h1 align="center">
-    <img marginleft="20" src="./src/assets/logo.png"/>
     <p align="center">Projeto circuitos</p>
 </h1>
 <h2 align="center"/>
