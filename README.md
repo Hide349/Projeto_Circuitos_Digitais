@@ -18,7 +18,7 @@
 
 
 
-## 📚Sobre 
+### 📚Sobre
 Esse projeto é um jogo criado no **LOGISIM**. O jogo consiste em um circuito que tem a capacidade de receber dois números de 4 bits, cada número é o  palpite de um jogador para acertar um número predefinido. O circuito tem que possibilitar selecionar o jogador, lançar o palpite e retornar se o número chutado é maior, menor ou igual ao definido. O circuito também deverá exibir os números colocados em hexadecimal.
 
 ## 🔨 Ferramentas
