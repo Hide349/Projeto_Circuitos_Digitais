@@ -8,25 +8,25 @@
 
 ## Indice
 - [Sobre](#books-sobre)
-- [Ferramentas](#🔨-ferramentas)
-- [Clonar](#♻-clonar)
+- [Ferramentas](#hammerferramentas)
+- [Clonar](#recycle-clonar)
 - [Passo a Passo](#passo-a-passo)
 - [Multiplexador](#0️⃣1️⃣-multiplexador)
-- [Comparador](#🟰➕➖-comparador)
-- [Decodificador](#⚙️-decodificador)
-- [Conclusão](#✅-conslusão)
+- [Comparador](#abc-comparador)
+- [Decodificador](#pager-decodificador)
+- [Conclusão](#heavy_check_mark-conslusão)
 
 
 
 ##  :books: Sobre
 Esse projeto é um jogo criado no **LOGISIM**. O jogo consiste em um circuito que tem a capacidade de receber dois números de 4 bits, cada número é o  palpite de um jogador para acertar um número predefinido. O circuito tem que possibilitar selecionar o jogador, lançar o palpite e retornar se o número chutado é maior, menor ou igual ao definido. O circuito também deverá exibir os números colocados em hexadecimal.
 
-##  Ferramentas
+##  :hammer:Ferramentas
 
 - [Logisim](https://github.com/Logisim-Ita/Logisim)
 - [java](https://www.java.com/pt-BR/)
 
-## ♻ Clonar 
+## :recycle: Clonar 
 
 ```bash
     #Execute
@@ -53,7 +53,7 @@ Para fazer um multiplexador de 4 bits, basta repetir o mux(**nomenclatura do mul
 
 <img src="./src/assets/mux_4:4.png">
 
-### 🟰➕➖ Comparador
+### :abc: Comparador
 Um **comparador** precisa checar se o número chutado é maior, menor ou igual que o número pré definido. Para fazer isso, primeiro iremos começar checando se os dois números são iguais.
 
 #### 🟰 Iguais
@@ -81,7 +81,7 @@ Além disso tudo, é preciso adcionar uma possibilidade de jogar ou não. Para i
 
 <img src="./src/assets/Comparador.png" />
 
-### ⚙️ Decodificador
+### :pager: Decodificador
 O decodificador utilizará um display de sete segmentos para apresentar os números.
 
 <img src="./src/assets/display.png"/>
@@ -117,7 +117,7 @@ Nesse caso, a tabela para no 9, mas a lógica continua a mesma só que com os n�
 ### G
 <img src="./src/assets/cases_decode/Cases G.png"/>
 
-## ✅ Conslusão
+## :heavy_check_mark: Conslusão
 Agora basta apenas juntar todas as peças
 
 <img src="./src/assets/Game.png"/>
